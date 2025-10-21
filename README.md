@@ -1,13 +1,4 @@
-# Fullstack Java Project Team NN
-
-## Team members
-
-:heavy_check_mark:_(COMMENT) Add your team members below and remove this comment. Also, fill out your team number in the title._
-
-- Member 1
-- Member 2
-- Member 3
-
+# Fullstack Java Project
 ## Folder structure
 
 - Readme.md
